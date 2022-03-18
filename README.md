@@ -2,7 +2,6 @@
 These days social media are not that safe. most people face toxic comments based on their gender, race or background etc.. So I build  this project to classify those comments.It is also part of my kaggle competition.
 
 ## 1. Business Problem:
-**Source:** https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
 
 **Description:** https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview/description
 
