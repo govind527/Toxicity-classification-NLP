@@ -89,3 +89,18 @@ More on evaluation: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-
 - The model should be fast to predict the toxicity rating.
 - Interpretability is not needed.
 
+### Language and Libraries used.
+- Python 3.7
+- Numpy
+- Pandas
+- Matplotlib
+- NLTK
+- Seaborn
+
+### Steps involved
+- Getting the dataset
+- Getting insights from dataset using visualisation tools.
+- Preprocessing the data using NLTK.
+- Applying Multi Label classification algorithms.
+- Comparing the results and choosing the best among them.
+
