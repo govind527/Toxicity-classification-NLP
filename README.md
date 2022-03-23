@@ -96,6 +96,7 @@ More on evaluation: https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-
 - Matplotlib
 - NLTK
 - Seaborn
+- ML Algorithms
 
 ### Steps involved
 - Getting the dataset
