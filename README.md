@@ -1,5 +1,5 @@
 # Toxicity-classification-NLP
-These days social media are not that safe. most people face toxic comments based on their gender, race or background etc.. So I build  this project to classify those comments.It is also part of My Kaggle competition.
+These days social media are not that safe. most people face toxic comments based on their gender, race or background etc.. So I build  this project to classify those comments.It is also part of My Kaggle Competition.
 
 ## 1. Business Problem:
 
