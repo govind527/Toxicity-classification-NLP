@@ -16,7 +16,7 @@ These days social media are not that safe. Most people face Toxic comments based
 - We have one single csv file for training and one cvs file to test.
 - Columns in train data:
 	- Comment_text: This is the Data in string format which we have to use to find the toxicity.
-	- target: Target values which are to be predicted (has values between 0 and 1)
+	- Target: Target values which are to be predicted (has values between 0 and 1)
 	- Data also has additional toxicity subtype attributes: (Model does not have to predict these)
 		- severe_toxicity
 		- obscene
