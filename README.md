@@ -18,7 +18,7 @@ These days social media are not that safe. Most people face Toxic comments based
 	- Comment_text: This is the Data in string format which we have to use to find the toxicity.
 	- Target: Target values which are to be predicted (has values between 0 and 1)
 	- Data also has additional toxicity subtype attributes: (Model does not have to predict these)
-		- severe_toxicity
+		- Severe_toxicity
 		- obscene
 		- threat
 		- insult
